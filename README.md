@@ -1,1 +1,1 @@
-# Machine-Learning-Model-of-ADK-inhibitor
+# ADK-inhibitor-ML
