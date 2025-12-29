@@ -1,0 +1,7 @@
+01-dataset[[:space:]]preprocessing filter=lfs diff=lfs merge=lfs -text
+02-parameter[[:space:]]searching filter=lfs diff=lfs merge=lfs -text
+03-model[[:space:]]fusion filter=lfs diff=lfs merge=lfs -text
+04-γ[[:space:]]disturbance filter=lfs diff=lfs merge=lfs -text
+05-application[[:space:]]domain[[:space:]]evaluation filter=lfs diff=lfs merge=lfs -text
+06-model[[:space:]]explanation filter=lfs diff=lfs merge=lfs -text
+07-substructure filter=lfs diff=lfs merge=lfs -text
