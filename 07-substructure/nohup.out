@@ -1,0 +1,37 @@
+[I 2024-12-26 21:15:12.254 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-12-26 21:15:12.261 ServerApp] Package jupyter_lsp took 0.0068s to import
+[W 2024-12-26 21:15:12.261 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-12-26 21:15:12.264 ServerApp] Package jupyter_server_terminals took 0.0029s to import
+[I 2024-12-26 21:15:12.265 ServerApp] Package nbclassic took 0.0003s to import
+[W 2024-12-26 21:15:12.266 ServerApp] A `_jupyter_server_extension_points` function was not found in nbclassic. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-12-26 21:15:12.266 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-12-26 21:15:12.266 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-12-26 21:15:12.266 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-12-26 21:15:12.269 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-12-26 21:15:12.272 ServerApp] jupyterlab | extension was successfully linked.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.274 NotebookApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2024-12-26 21:15:12.275 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[W 2024-12-26 21:15:12.275 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2024-12-26 21:15:12.275 ServerApp] nbclassic | extension was successfully linked.
+[I 2024-12-26 21:15:12.426 ServerApp] notebook_shim | extension was successfully linked.
+[W 2024-12-26 21:15:12.502 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2024-12-26 21:15:12.503 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-12-26 21:15:12.504 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-12-26 21:15:12.505 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-12-26 21:15:12.506 LabApp] JupyterLab extension loaded from /home/md06/miniconda3/envs/fbw/lib/python3.8/site-packages/jupyterlab
+[I 2024-12-26 21:15:12.506 LabApp] JupyterLab application directory is /home/md06/miniconda3/envs/fbw/share/jupyter/lab
+[I 2024-12-26 21:15:12.507 LabApp] Extension Manager is 'pypi'.
+[I 2024-12-26 21:15:12.509 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-12-26 21:15:12.511 ServerApp] nbclassic | extension was successfully loaded.
+[I 2024-12-26 21:15:12.512 ServerApp] 端口 8888 已经被占用, 请尝试其他端口。
+[I 2024-12-26 21:15:12.512 ServerApp] notebooks 运行所在的本地路径: /home/md06/public/jupytercode
+[I 2024-12-26 21:15:12.512 ServerApp] Jupyter Server 2.7.0 is running at:
+[I 2024-12-26 21:15:12.512 ServerApp] http://localhost:8889/lab
+[I 2024-12-26 21:15:12.512 ServerApp]     http://127.0.0.1:8889/lab
+[I 2024-12-26 21:15:12.512 ServerApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
+[I 2024-12-26 21:15:12.874 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
